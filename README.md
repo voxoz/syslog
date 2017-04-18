@@ -6,7 +6,7 @@ This is an erlang port driver for interacting with syslog.
 Installing it
 -------------
 
-    ./rebar3 compile
+    ./mad dep com pla rep
 
 Trying it
 ---------
